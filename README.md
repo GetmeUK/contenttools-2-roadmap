@@ -8,7 +8,7 @@ Check if the feature you want has already been added to the issue list, if so si
 
 ## Which features are being included?
 
-This is new so we're still reviewing new features and adding many of the ones we want to see. However, if a feature has made it in to the roadmap for ContentTools2 it will get a green release tag added to it (the tag representing which release we plan to add it to starting from 2.0.0).
+This is new so we're still reviewing new features and adding many of the ones we want to see. However, if a feature has made it in to the roadmap for ContentTools2 it will get a green **on roadmap** tag added to it (the associated milestone represents which release we plan to add it to starting from 2.0.0).
 
 ## When will ContentTools 2 be available
 
